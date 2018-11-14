@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_associ_paifilho", "lista_associ_paifilho\lista_associ_paifilho.csproj", "{C80B914C-3AAC-43BB-9F4D-01B94C6ED64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C80B914C-3AAC-43BB-9F4D-01B94C6ED64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80B914C-3AAC-43BB-9F4D-01B94C6ED64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80B914C-3AAC-43BB-9F4D-01B94C6ED64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80B914C-3AAC-43BB-9F4D-01B94C6ED64F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

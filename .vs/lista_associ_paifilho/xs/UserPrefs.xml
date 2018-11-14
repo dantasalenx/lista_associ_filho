@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C80B914C-3AAC-43BB-9F4D-01B94C6ED64F}|Default">
+  <MonoDevelop.Ide.ItemProperties.lista__associ__paifilho PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lista_associ_paifilho/Program.cs">
+    <Files>
+      <File FileName="lista_associ_paifilho/Program.cs" Line="19" Column="105" />
+      <File FileName="lista_associ_paifilho/Filho.cs" Line="9" Column="16" />
+      <File FileName="lista_associ_paifilho/Pai.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

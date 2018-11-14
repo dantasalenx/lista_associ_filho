@@ -1,0 +1,10 @@
+/Users/aluno/Projects/lista_associ_paifilho/lista_associ_paifilho/bin/Debug/netcoreapp2.1/lista_associ_paifilho.deps.json
+/Users/aluno/Projects/lista_associ_paifilho/lista_associ_paifilho/bin/Debug/netcoreapp2.1/lista_associ_paifilho.runtimeconfig.json
+/Users/aluno/Projects/lista_associ_paifilho/lista_associ_paifilho/bin/Debug/netcoreapp2.1/lista_associ_paifilho.runtimeconfig.dev.json
+/Users/aluno/Projects/lista_associ_paifilho/lista_associ_paifilho/bin/Debug/netcoreapp2.1/lista_associ_paifilho.dll
+/Users/aluno/Projects/lista_associ_paifilho/lista_associ_paifilho/bin/Debug/netcoreapp2.1/lista_associ_paifilho.pdb
+/Users/aluno/Projects/lista_associ_paifilho/lista_associ_paifilho/obj/Debug/netcoreapp2.1/lista_associ_paifilho.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/lista_associ_paifilho/lista_associ_paifilho/obj/Debug/netcoreapp2.1/lista_associ_paifilho.AssemblyInfoInputs.cache
+/Users/aluno/Projects/lista_associ_paifilho/lista_associ_paifilho/obj/Debug/netcoreapp2.1/lista_associ_paifilho.AssemblyInfo.cs
+/Users/aluno/Projects/lista_associ_paifilho/lista_associ_paifilho/obj/Debug/netcoreapp2.1/lista_associ_paifilho.dll
+/Users/aluno/Projects/lista_associ_paifilho/lista_associ_paifilho/obj/Debug/netcoreapp2.1/lista_associ_paifilho.pdb
